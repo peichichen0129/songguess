@@ -78,7 +78,9 @@ This project helped us:
 
 ## Demo
 
-> *(Add demo video link or screenshots here)*
+![image](https://github.com/user-attachments/assets/12aa5ec7-bdd0-4b24-a50c-e5df57e583d7)
+![image](https://github.com/user-attachments/assets/e621a323-9ffe-41f3-becd-3be16ca891e9)
+
 
 ---
 
