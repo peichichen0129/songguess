@@ -1,0 +1,17 @@
+C:\Users\Pipi\source\repos\network_finalproject\network_finalproject\bin\Debug\network_finalproject.exe.config
+C:\Users\Pipi\source\repos\network_finalproject\network_finalproject\bin\Debug\network_finalproject.exe
+C:\Users\Pipi\source\repos\network_finalproject\network_finalproject\bin\Debug\network_finalproject.pdb
+C:\Users\Pipi\source\repos\network_finalproject\network_finalproject\obj\Debug\network_finalproject.csproj.AssemblyReference.cache
+C:\Users\Pipi\source\repos\network_finalproject\network_finalproject\obj\Debug\network_finalproject.Form1.resources
+C:\Users\Pipi\source\repos\network_finalproject\network_finalproject\obj\Debug\network_finalproject.Form2.resources
+C:\Users\Pipi\source\repos\network_finalproject\network_finalproject\obj\Debug\network_finalproject.Properties.Resources.resources
+C:\Users\Pipi\source\repos\network_finalproject\network_finalproject\obj\Debug\network_finalproject.csproj.GenerateResource.cache
+C:\Users\Pipi\source\repos\network_finalproject\network_finalproject\obj\Debug\network_finalproject.csproj.CoreCompileInputs.cache
+C:\Users\Pipi\source\repos\network_finalproject\network_finalproject\obj\Debug\network_finalproject.exe
+C:\Users\Pipi\source\repos\network_finalproject\network_finalproject\obj\Debug\network_finalproject.pdb
+C:\Users\Pipi\source\repos\network_finalproject\network_finalproject\bin\Debug\Interop.WMPLib.dll
+C:\Users\Pipi\source\repos\network_finalproject\network_finalproject\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Pipi\source\repos\network_finalproject\network_finalproject\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\Pipi\source\repos\network_finalproject\network_finalproject\obj\Debug\Interop.WMPLib.dll
+C:\Users\Pipi\source\repos\network_finalproject\network_finalproject\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Pipi\source\repos\network_finalproject\network_finalproject\obj\Debug\network_finalproject.csproj.ResolveComReference.cache
